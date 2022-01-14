@@ -1,5 +1,21 @@
-- 👋 Hi, I’m Freya
-- 👀 I’m interested in Game programing, Digital image processing, Deep Learning, nodeJS.
-- 🌱 I’m currently learning How to use github...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Freya but don't think i'm a female. sorry about that. wish it didn't make trouble for you.
+- 👀 I’m interested in 
+- ----Game programing & Game Develop
+- ----Deep Learning
+- ----Data Science
+- ----software engineer
+- ----3D Modeling,Rigging,Texturing (all things in character design)
+-💻 Programing Language that I know or I interest
+- ----Java
+- ----Python
+- ----C,C#,C++
+- ----nodeJS
+- ----Go
+- 🌱 I’m currently learning
+- ----Japaness 
+- ----English 
+- ----Chinese
+- ----android
+- 💞️ I’m looking to collaborate on Game company in the future
+- 📫 How to reach me 
+- ---- Freyafayy@gmail.com
