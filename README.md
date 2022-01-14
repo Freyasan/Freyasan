@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Freya but don't think i'm a female. sorry about that. wish it didn't make trouble for you.
 - 👀 I’m interested in 
 - ----Game programing & Game Develop
-- ----Deep Learning
+- ----Deep Learning & Machine Learning (in the future will include about A.I.)
 - ----Data Science
 - ----software engineer
 - ----3D Modeling,Rigging,Texturing (all things in character design)
