@@ -5,7 +5,7 @@
 - ----Data Science
 - ----software engineer
 - ----3D Modeling,Rigging,Texturing (all things in character design)
--💻 Programing Language that I know or I interest
+- 💻 Programing Language that I know or I interest
 - ----Java
 - ----Python
 - ----C,C#,C++
